@@ -1,5 +1,5 @@
 # Capstone-Project-1
 # Financial Calculator
-# Project information:
+# Project informatio:
 # Description
 
