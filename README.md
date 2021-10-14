@@ -10,7 +10,7 @@ This program firstly display a menu to the user with two options of finance calc
 
 Based on which calculator the user chooses, the programme will then ask user for input with different questions. The information from the user's input will be captured and used to calculate either their monthly bond repayments for a set time period, or total investment value over a certain number of years
 
-# Example:
+EXAMPLE:
 If the user chooses the investment calculator, they will be asked to enter:
 
 > The amount of money that they are depositing
